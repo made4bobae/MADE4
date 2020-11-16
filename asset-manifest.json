@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/made4/static/js/main.f6a5376b.chunk.js",
-    "main.js.map": "/made4/static/js/main.f6a5376b.chunk.js.map",
+    "main.js": "/made4/static/js/main.9662efe6.chunk.js",
+    "main.js.map": "/made4/static/js/main.9662efe6.chunk.js.map",
     "runtime-main.js": "/made4/static/js/runtime-main.3770eec4.js",
     "runtime-main.js.map": "/made4/static/js/runtime-main.3770eec4.js.map",
-    "static/js/2.56880ca9.chunk.js": "/made4/static/js/2.56880ca9.chunk.js",
-    "static/js/2.56880ca9.chunk.js.map": "/made4/static/js/2.56880ca9.chunk.js.map",
+    "static/js/2.88516046.chunk.js": "/made4/static/js/2.88516046.chunk.js",
+    "static/js/2.88516046.chunk.js.map": "/made4/static/js/2.88516046.chunk.js.map",
     "index.html": "/made4/index.html",
-    "precache-manifest.e2f71a51c234fcdc6e0b2842d94f311d.js": "/made4/precache-manifest.e2f71a51c234fcdc6e0b2842d94f311d.js",
+    "precache-manifest.6cc9d773a87ae2f949c08cff845d6df6.js": "/made4/precache-manifest.6cc9d773a87ae2f949c08cff845d6df6.js",
     "service-worker.js": "/made4/service-worker.js",
-    "static/js/2.56880ca9.chunk.js.LICENSE.txt": "/made4/static/js/2.56880ca9.chunk.js.LICENSE.txt",
+    "static/js/2.88516046.chunk.js.LICENSE.txt": "/made4/static/js/2.88516046.chunk.js.LICENSE.txt",
     "static/media/americano.png": "/made4/static/media/americano.5ede2bd6.png",
     "static/media/cafe_latte.png": "/made4/static/media/cafe_latte.59545e01.png",
     "static/media/cafe_mocha.png": "/made4/static/media/cafe_mocha.8b13f393.png",
@@ -19,14 +19,9 @@
     "static/media/event_main.png": "/made4/static/media/event_main.6a780a0c.png",
     "static/media/event_main_mobile.png": "/made4/static/media/event_main_mobile.e6ab47b7.png",
     "static/media/event_wallet.png": "/made4/static/media/event_wallet.234d4cf6.png",
-    "static/media/google-play.png": "/made4/static/media/google-play.0b0baeb1.png",
     "static/media/home_item_01.png": "/made4/static/media/home_item_01.5e62b607.png",
     "static/media/home_item_02.png": "/made4/static/media/home_item_02.d6078529.png",
     "static/media/home_item_03.png": "/made4/static/media/home_item_03.498d3681.png",
-    "static/media/home_main.png": "/made4/static/media/home_main.c0f69b27.png",
-    "static/media/home_main_mobile.png": "/made4/static/media/home_main_mobile.d1e1b1a7.png",
-    "static/media/home_mall.png": "/made4/static/media/home_mall.937c4ed5.png",
-    "static/media/home_wallet.png": "/made4/static/media/home_wallet.234d4cf6.png",
     "static/media/jeju_malcha_latte.png": "/made4/static/media/jeju_malcha_latte.cca65ce4.png",
     "static/media/lemon_tea.png": "/made4/static/media/lemon_tea.ce1180ba.png",
     "static/media/logo.png": "/made4/static/media/logo.9c74a5cf.png",
@@ -39,7 +34,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3770eec4.js",
-    "static/js/2.56880ca9.chunk.js",
-    "static/js/main.f6a5376b.chunk.js"
+    "static/js/2.88516046.chunk.js",
+    "static/js/main.9662efe6.chunk.js"
   ]
 }
